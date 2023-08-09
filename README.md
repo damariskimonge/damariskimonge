@@ -8,10 +8,10 @@
 I am a Biostatistician and my expertise lies in utilizing a comprehensive understanding of statistics to conduct high-level data analytics. My primary focus is on identifying disease trends, relationships, risks, and effective interventions to control and curb their spread. I have special interest in matters reproductive health, and identifying interventions that control the spread of communicable diseases especially neglected and tropical diseases (NTDs) and infectious diseases.
 
 ## SKILLS
-Trainer-Reproducible Research Methods  
-Statistical and Mathematical Modelling 
-Data Analysis 
-Biostatistics Mentor/Consultancy 
+.Trainer-Reproducible Research Methods  
+.Statistical and Mathematical Modelling 
+.Data Analysis 
+.Biostatistics Mentor/Consultancy 
 
 ### LANGUAGES
 ![R](https://img.shields.io/badge/R-87CEEB?style=for-the-badge&logo=r&logoColor=RebeccaPurple)
