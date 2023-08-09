@@ -13,7 +13,7 @@ Statistical and Mathematical Modelling
 Data Analysis 
 Biostatistics Mentor/Consultancy 
 
-###LANGUAGES
+### LANGUAGES
 ![R](https://img.shields.io/badge/R-30D5C8?style=for-the-badge&logo=r&logoColor=turquoise)
 ![Git](https://img.shields.io/badge/Git-30D5C8?style=for-the-badge&logo=git&logoColor=turquoise)
 ![HTML5](https://img.shields.io/badge/HTML5-30D5C8?style=for-the-badge&logo=html5&logoColor=turquoise)
