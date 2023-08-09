@@ -20,15 +20,15 @@ Biostatistics Mentor/Consultancy
 
 
 ### PACKAGES
-![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=RebeccaPurple)
 
-![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=RebeccaPurple)
 
 ### OS
-![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=RebeccaPurple)
 
 ### IDEs
-![jupyter](https://img.shields.io/badge/Jupyter-87CEEB?style=for-the-badge&logo=jupyter&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-87CEEB?style=for-the-badge&logo=jupyter&logoColor=RebeccaPurple)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-87CEEB?style=for-the-badge&logo=visual-studio-code)
 
 
