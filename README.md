@@ -14,9 +14,9 @@ Data Analysis
 Biostatistics Mentor/Consultancy 
 
 ### LANGUAGES
-![R](https://img.shields.io/badge/R-30D5C8?style=for-the-badge&logo=r&logoColor=turquoise)
-![Git](https://img.shields.io/badge/Git-30D5C8?style=for-the-badge&logo=git&logoColor=turquoise)
-![HTML5](https://img.shields.io/badge/HTML5-30D5C8?style=for-the-badge&logo=html5&logoColor=turquoise)
+![R](https://img.shields.io/badge/R-B0C4DE?style=for-the-badge&logo=r&logoColor=LightSteelBlue)
+![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=git&logoColor=LightSteelBlue)
+![HTML5](https://img.shields.io/badge/HTML5-B0C4DE?style=for-the-badge&logo=html5&logoColor=LightSteelBlue)
 
 ### OS
 ![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
