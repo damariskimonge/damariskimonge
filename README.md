@@ -14,22 +14,22 @@ Data Analysis
 Biostatistics Mentor/Consultancy 
 
 ### LANGUAGES
-![R](https://img.shields.io/badge/R-B0C4DE?style=for-the-badge&logo=r&logoColor=LightSteelBlue)
-![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=git&logoColor=LightSteelBlue)
-![HTML5](https://img.shields.io/badge/HTML5-B0C4DE?style=for-the-badge&logo=html5&logoColor=LightSteelBlue)
+![R](https://img.shields.io/badge/R-87CEEB?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-87CEEB?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### PACKAGES
-![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=white)
 
-![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-87CEEB?style=for-the-badge&logo=tidyverse&logoColor=white)
 
 ### OS
 ![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### IDEs
-![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=turquoise)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![jupyter](https://img.shields.io/badge/Jupyter-87CEEB?style=for-the-badge&logo=jupyter&logoColor=white)
+![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-87CEEB?style=for-the-badge&logo=visual-studio-code)
 
 
 **damariskimonge/damariskimonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
