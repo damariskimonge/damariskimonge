@@ -1,4 +1,6 @@
-### Hi there I am Damaris Kimonge👋
+
+Data scientist
+### Hi there 👋, I am Damaris Kimonge
 
 
 <div align ="center">
@@ -36,12 +38,10 @@ I am a Biostatistician and my expertise lies in utilizing a comprehensive unders
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on shiny apps
+- 🌱 I’m currently learning systematic review
+- 👯 I’m looking to collaborate on health research
+- 🤔 I’m looking for help with app reactivity
+- 💬 Ask me about statistical modelling
+- 😄 Pronouns: she/her
 -->
