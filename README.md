@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **app reactivity**
 - 💬 Ask me about **statistical modelling**
 - 📫 How to reach me **damariskimonge54@gmail.com**
-⚡ Fun fact **coding keeps me awake**
+-⚡ Fun fact **coding keeps me awake**
 - 😄 Pronouns: **she/her**
 -->
