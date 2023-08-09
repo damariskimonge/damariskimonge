@@ -16,7 +16,7 @@ Biostatistics Mentor/Consultancy
 ### LANGUAGES
 ![R](https://img.shields.io/badge/R-87CEEB?style=for-the-badge&logo=r&logoColor=RebeccaPurple)
 ![Git](https://img.shields.io/badge/Git-87CEEB?style=for-the-badge&logo=git&logoColor=RebeccaPurple)
-![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=RebeccaPurple)
 
 
 ### PACKAGES
