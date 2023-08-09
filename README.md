@@ -18,6 +18,9 @@ Biostatistics Mentor/Consultancy
 ![Git](https://img.shields.io/badge/Git-30D5C8?style=for-the-badge&logo=git&logoColor=turquoise)
 ![HTML5](https://img.shields.io/badge/HTML5-30D5C8?style=for-the-badge&logo=html5&logoColor=turquoise)
 
+### OS
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+
 ### IDEs
 ![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=turquoise)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
