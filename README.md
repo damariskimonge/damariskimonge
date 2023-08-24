@@ -1,8 +1,8 @@
 
 <div align ="center">
- ### Data scientist
+ Data scientist
  </div>
-Hi there 👋, I am Damaris Kimonge
+### Hi there 👋, I am Damaris Kimonge
 
 
 <div align ="center">
