@@ -4,7 +4,7 @@
 
 
 <div align ="center">
-  <img src= "https://media.giphy.com/media/Chq0NwiG8bhMc76Bd7/giphy.gif" width="600" height="300"/>
+  <img src= "https://media.giphy.com/media/gC09A9IwYxhTKgZ2Pm/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a Biostatistician and my expertise lies in utilizing a comprehensive understanding of statistics to conduct high-level data analytics. My primary focus is on identifying disease trends, relationships, risks, and effective interventions to control and curb their spread. I have special interest in matters reproductive health, and identifying interventions that control the spread of communicable diseases especially neglected and tropical diseases (NTDs) and infectious diseases.
