@@ -1,6 +1,6 @@
 
 <div align ="center">
-### Data scientist
+ Data scientist
 ### Hi there 👋, I am Damaris Kimonge
 
 
